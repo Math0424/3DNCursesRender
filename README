@@ -1,0 +1,10 @@
+This is a small 3d rendering engine I made
+
+Running the program:
+   Run the command 'make' to create and build the program
+
+   in the Makefile change the first argument under run to change
+   the input files, there are a few included in the /models/ directory
+
+   the file format is .obj, though only the obj's that blender creates by default
+   all meshes are also triangulated meaning quads are not supported.
